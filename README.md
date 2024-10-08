@@ -20,5 +20,5 @@ The game ends when the correct number is guessed.
 Requirements:
 
 Python 3.x
-
+ 
 Usage: Clone the repository and run number_guessing_game.py to start playing.
